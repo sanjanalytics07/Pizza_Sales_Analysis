@@ -14,7 +14,7 @@ The database "pizzahut" has four different tables:
 
 •	Pizza_types: has record of Pizza names, category of the pizza, and ingredients used in making the pizza, has unique pizza_type_id
 
-# Findings
+### Findings
 
 •	A total of 21350 orders were placed, which generated a total revenue of 817860.05
 

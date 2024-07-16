@@ -6,13 +6,14 @@ w.r.t the Pizza Sales
 
 ### Database Explanation
 The database "pizzahut" has four different tables:
-•	Orders: which has record of all the orders placed along with their date and time of when the order was placed, each order being unique with order id
 
-•	Order_details: carrying detailed information of each order in terms of the items (pizza) and quantities ordered, with unique order_details_id
+• The Orders table contains the date & time that all table orders were placed
 
-•	Pizzas: gives information of each pizza type, size and their price offered by the company, has unique pizza_id
+• The Order Details table contains the different pizzas served with each order in the Orders table, and their quantities
 
-•	Pizza_types: has record of Pizza names, category of the pizza, and ingredients used in making the pizza, has unique pizza_type_id
+• The Pizzas table contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type
+
+• The Pizza Types table contains details on the pizza types in the Pizzas table, including their name as it appears on the menu, the category it falls under, and its list of ingredients
 
 ### Findings
 

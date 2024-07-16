@@ -4,11 +4,14 @@ so as to learn and improve its Sales Revenue and operations efficiency.
 Multiple SQL queries have been executed using MySQL to answer business questions 
 w.r.t the Pizza Sales
 
-# Database Explanation
+### Database Explanation
 The database "pizzahut" has four different tables:
 •	Orders: which has record of all the orders placed along with their date and time of when the order was placed, each order being unique with order id
+
 •	Order_details: carrying detailed information of each order in terms of the items (pizza) and quantities ordered, with unique order_details_id
+
 •	Pizzas: gives information of each pizza type, size and their price offered by the company, has unique pizza_id
+
 •	Pizza_types: has record of Pizza names, category of the pizza, and ingredients used in making the pizza, has unique pizza_type_id
 
 # Findings

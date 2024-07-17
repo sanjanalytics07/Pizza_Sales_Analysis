@@ -1,5 +1,5 @@
 # Pizza Sales Analysis
-The purpose of doing this project was to analyse the Sales of Pizzas of a Pizza Company/ outlet
+The purpose of doing this project was to analyse the Pizza Sales of a Pizza Company/ outlet
 so as to learn and improve its Sales Revenue and operations efficiency.
 Multiple SQL queries have been executed using MySQL to answer business questions 
 w.r.t the Pizza Sales
@@ -44,8 +44,18 @@ The database "pizzahut" has four different tables:
 •	Percentage contribution of each pizza category: "Classic"- 26.91, "Supreme"- 25.46, "Chicken"- 23.96, "Veggie"- 23.68
 
 ### Insights Generated
-•	
-•	
-•	
-•	P
-•	P
+•	During the peak business hours i.e. between 12 to 1 pm and between 5 to 7 pm when maximum number of orders are received,
+  outlet should have most number of servers and chefs during these peak hours to run outlet operations effeciently by avoiding any possible bottle-neck
+  
+•	In the mornings between 9 to 11 am least numbers of orders are received, during these hours outlet can give certain offers like 10% discount on any pizza
+  or buy-1-get-1 free pizza. Such offers would attract customer and increase the sales of total pizza of the day, 
+  which would inturn increase average number of orders placed  per day
+  
+•	Classic Category Pizzas being most prefered amoung customers, contributing to a major percentage of total revenue, 
+  their price can increased to further increase the total revenue
+  
+•	Though in overall, Classic Category pizzas are more in demand, the top 3 pizzas which gave highest revenues belong to pizzas of Chicken Category
+
+• Out of total 21350 orders placed while a total of 18526 orders where placed for "L" sized pizza (86.77% of total orders placed), 
+  while only 28 orders were placed for "XXL" sized pizzas (0.13% of total orders placed). So, either the "XXL" size should be dropped of 
+  or else it should given in offers during the lunch hours between 1 to 3 pm to increase its sales

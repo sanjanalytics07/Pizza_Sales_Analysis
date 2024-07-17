@@ -52,7 +52,7 @@ The database "pizzahut" has four different tables:
   which would inturn increase average number of orders placed  per day
   
 •	Classic Category Pizzas being most prefered amoung customers, contributing to a major percentage of total revenue, 
-  their price can increased to further increase the total revenue
+  their price can be increased to further increase the total revenue
   
 •	Though in overall, Classic Category pizzas are more in demand, the top 3 pizzas which gave highest revenues belong to pizzas of Chicken Category
 

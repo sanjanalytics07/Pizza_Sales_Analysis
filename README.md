@@ -57,5 +57,5 @@ The database "pizzahut" has four different tables:
 •	Though in overall, Classic Category pizzas are more in demand, the top 3 pizzas which gave highest revenues belong to pizzas of Chicken Category
 
 • Out of total 21350 orders placed while a total of 18526 orders where placed for "L" sized pizza (86.77% of total orders placed), 
-  while only 28 orders were placed for "XXL" sized pizzas (0.13% of total orders placed). So, either the "XXL" size should be dropped of 
-  or else it should given in offers during the lunch hours between 1 to 3 pm to increase its sales
+  while only 28 orders were placed for "XXL" sized pizzas (0.13% of total orders placed). So, either the "XXL" size should be dropped off 
+  or else it should be given in combo offers during the lunch hours between 1 to 3 pm to increase its sales
